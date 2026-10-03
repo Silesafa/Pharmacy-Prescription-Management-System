@@ -1,0 +1,3 @@
+1000 1 Andres Cespedes Siles tomar 4 al dia 2.5
+1001 2 Sofia Cespedes alv tomar 4 al dia 10
+1002 4 Nela Alvar Bre inyectar 1 al dia 10

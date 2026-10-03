@@ -1,0 +1,7 @@
+1 Acetaminofen 10 tableta
+2 paydos 10 aplicar
+3 penicilina 30 aplicar
+4 ciclofenac 25 inyectar
+5 terramicina 30 inyectar
+6 Amoxicilina 40 capsula
+7 dexametasona 15 inyectar

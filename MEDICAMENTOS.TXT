@@ -1,0 +1,7 @@
+1 acetaminofen 10
+2 paydos 30
+3 Penicilina 25
+4 diclofenaco 10
+5 terramicina 30
+6 Amoxicilina 40
+7 dexametasona 15
